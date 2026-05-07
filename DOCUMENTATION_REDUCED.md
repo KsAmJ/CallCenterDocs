@@ -1,4 +1,4 @@
-# CallCenterApp — Full System Documentation
+# CallCenterApp — System Technical Documentation
 
 > **Version:** 1.0 · **Framework:** ASP.NET Core MVC (.NET 10) · **Database:** SQL Server  
 > **Repository:** https://github.com/KsAmJ/CallCenterApp
